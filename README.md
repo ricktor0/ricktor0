@@ -17,7 +17,7 @@ I'm currently learning Python along with various offensive security tools. I lov
 - I am a moody person.
 
 ## 📖 Latest Blog Posts
-- (https://vikram1337.medium.com/nahamcon-ctf-2025-the-mission-b16d4f3279e4)
+- [NahamCon CTF 2025 “The Mission”](https://vikram1337.medium.com/nahamcon-ctf-2025-the-mission-b16d4f3279e4)
 
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricktor0&layout=compact&theme=radical)
