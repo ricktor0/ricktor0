@@ -6,10 +6,10 @@ Security researcher focused on web application security, network security, and V
 ## Recent Publications
 
 - [NahamCon CTF 2025 "The Mission"](https://vikram1337.medium.com/nahamcon-ctf-2025-the-mission-b16d4f3279e4)
-
+- [Exploiting CVE-2025–29927 in Next.js Middleware](https://v1krammm.medium.com/exploiting-cve-2025-29927-in-next-js-middleware-23d6676ca619)
 ## Connect
 
 - Website: [v1kram.xyz](https://v1kram.xyz)
 - LinkedIn: [Vikram Sharma](https://in.linkedin.com/in/vikram-sharma-957513230)
-- Blog: [Security Research & Writeups](https://vikram1337.medium.com/)
+- Blog: [Security Research & Writeups]([https://vikram1337.medium.com/](https://v1krammm.medium.com/))
 ---
