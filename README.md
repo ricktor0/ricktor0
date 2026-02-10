@@ -1,5 +1,5 @@
 ##
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00F700&width=435&lines=Web+Application+Security;Network+Pentesting;CTF+Player;Vulnerability+Research)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00F700&width=435&lines=Web+Application+Security;Network+Security;CTF+Player)
 
 Security researcher focused on web application security, network security, and VAPT (Vulnerability Assessment & Penetration Testing). Proficient in offensive security methodologies with active CTF participation for vulnerability research.
 
