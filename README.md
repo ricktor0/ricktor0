@@ -11,5 +11,5 @@ Security researcher focused on web application security, network security, and V
 
 - Website: [v1kram.xyz](https://v1kram.xyz)
 - LinkedIn: [Vikram Sharma](https://in.linkedin.com/in/vikram-sharma-957513230)
-- Blog: [Security Research & Writeups]([https://vikram1337.medium.com/](https://v1krammm.medium.com/))
+- Blog: [Security Research & Writeups](https://v1krammm.medium.com/)
 ---
